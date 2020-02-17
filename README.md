@@ -8,7 +8,7 @@
 
 3) 76.74% of total players are betwen ages 15 and 29. The dollars spend by these age groups ($1819.95) make up 76.48% of the total spent across all ages. While players in the age group of 35-39 spend the most on average ($4.76 per player) because they make up less than 6% of the user base, that group has a limited impact on the overall dollars spent.
 
-If this were my company, I would request an analysis of our marketing spend to see if advertisements had previously specifically targeted males or all any gender between the ages of 15 and 29. If we were not targeting those groups, and those players were brought into the game organically, then I would direct the marketing team to target advertising towards male players between the ages of 15 and 29, since the game is most popular with people in those demographics. The goal would be to increase total users.
+If this were my company, I would request an analysis of our marketing spend to see if advertisements had previously specifically targeted males or people between the ages of 15 and 29. If we were not targeting those groups, and those players were brought into the game organically, then I would direct the marketing team to target advertising towards male players between the ages of 15 and 29, since the game is most popular with people in those demographics. The goal would be to increase total users.
 
 If we were already targeting those groups, I would request test targeted advertisement toward non male players (higher avg Total Purchase per person) as well as players between the ages of 30 and 39 (higher avg Total Purchase per person). The goal in this case would be to increase the most profitable users.
 
